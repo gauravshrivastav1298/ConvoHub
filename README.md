@@ -1,5 +1,5 @@
-# Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack.
+# ConvoHub - Chat Application 
+ConvoHub is chat application build with the power of MERN Stack.
 
 
 
